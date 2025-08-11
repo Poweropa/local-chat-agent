@@ -97,5 +97,5 @@ catch {
 ### start the powershell script
 
 ```
-powershell -NoProfile -ExecutionPolicy Bypass -File "C:\Users\%USERNAME%\Desktop\askjan.ps1" Respond with the Windows command to display the current user."
+powershell -NoProfile -ExecutionPolicy Bypass -File "C:\Users\%USERNAME%\Desktop\askjan.ps1" "Respond with the Windows command to display the current user."
 ```
